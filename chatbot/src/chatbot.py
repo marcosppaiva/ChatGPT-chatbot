@@ -1,6 +1,6 @@
 """
     Developed by Marcos Pereira
-    email: marcos-paulo.pereira@capgemini.com
+    email: marcosppaivap@gmail.com
 """
 import os
 from typing import List

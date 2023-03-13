@@ -1,3 +1,7 @@
+"""
+    Developed by Marcos Pereira
+    email: marcosppaivap@gmail.com
+"""
 import gradio as gr
 
 from chatbot import ChatBot
