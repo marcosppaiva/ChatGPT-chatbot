@@ -1,4 +1,4 @@
-# Chatbot with ChatCPT and Gradio
+# Chatbot with ChatGPT and Gradio
 
 This application uses the openai API to create a chatbot and
 the gradio framework to create a web interface.
